@@ -5,7 +5,7 @@ scikit-learn
 matplotlib
 seaborn
 plotly
-wordcloud==1.8.2
+# wordcloud==1.8.2
 fpdf
 nltk
 textblob
