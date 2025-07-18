@@ -684,7 +684,7 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 1rem;'>
     <p>🎓 SDG 4 Low-Code AI Solution | Bridging Education Data Gaps with Machine Learning</p>
-    <p><em>Developed for sustainable development and quality education monitoring</em></p>
+    <p><em>Developed for sustainable development and quality education monitoring by Travor Mubaya</em></p>
 </div>
 """, unsafe_allow_html=True)
 
